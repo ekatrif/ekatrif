@@ -19,3 +19,18 @@ I love what I do.
 ![Apache ECharts](https://a11ybadges.com/badge?logo=apacheecharts)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+## 😜 Projects for fun
+| Github link | Live demo link | Description |
+| -- | -- | -- |
+| [Minesweeper](https://github.com/ekatrif/minesweeper) | [Live Demo](https://ekatrif.github.io/minesweeper/dist/) | Classic windows game.|
+| [Css Diner](https://github.com/ekatrif/rs-selectors) | [Live Demo](https://ekatrif.github.io/rs-selectors/dist/) | Replica of a famous trainer for study CSS-selectors. |
+| [Momentum](https://github.com/ekatrif/Momentum) | [Live Demo](https://ekatrif.github.io/Momentum/dist/) | The application has image slider, weather widget, audio players, quote of the day block, todo-list, settings menu. |
+
+ ## 🎓 Education
+ 📌 Bauman MSTU
+ 
+ 📌 Rolling Scopes School
+
+## 🤯 CodeWars
+![CW](https://www.codewars.com/users/ekatrif/badges/large)
