@@ -37,6 +37,3 @@ I love what I do.
 
 ## 📈 Stats
 <img src="https://myreadme.vercel.app/api/embed/ekatrif?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-## 🗯 Random joke
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
