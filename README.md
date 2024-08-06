@@ -24,7 +24,7 @@ My name is Ekaterina. I'm frontend developer and I love what I do.
 | -- | -- | -- |
 | [Minesweeper](https://github.com/ekatrif/minesweeper) | [Live Demo](https://ekatrif.github.io/minesweeper/dist/) | Classic windows game.|
 | [Css Diner](https://github.com/ekatrif/rs-selectors) | [Live Demo](https://ekatrif.github.io/rs-selectors/dist/) | Replica of a famous trainer for study CSS-selectors. |
-| [Momentum](https://github.com/ekatrif/Momentum) | [Live Demo](https://ekatrif.github.io/Momentum/dist/) | The application has image slider, weather widget, audio players, quote of the day block, todo-list, settings menu. |
+| [Momentum](https://github.com/ekatrif/Momentum) | [Live Demo](https://ekatrif.github.io/Momentum/dist/) | Web-application with image slider, weather widget, audio players, quote of the day block, todo-list, settings menu. |
 
  ## 🎓 Education
  📌 Bauman MSTU
