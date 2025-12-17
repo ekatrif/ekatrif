@@ -34,5 +34,3 @@ My name is Ekaterina. I'm frontend developer and I love what I do.
 ## 🤯 CodeWars
 ![CW](https://www.codewars.com/users/ekatrif/badges/large)
 
-## 📈 Stats
-<img src="https://myreadme.vercel.app/api/embed/ekatrif?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
